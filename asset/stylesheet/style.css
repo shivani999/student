@@ -1,0 +1,120 @@
+div{
+	text-align: center;
+}
+.jumbotron{
+	text-align: center;
+	color: #fff;
+	padding-top: 60px;
+	background-color: transparent;
+}
+.jumbotron h1{
+	font-weight: 800;
+	margin-bottom: 50px;
+}
+.btn{
+	background-color: #FF4500;
+	border-radius: 300px;
+	color: black;
+    font-size: 15px;
+	font-weight: 700;
+}
+.btn:hover{
+	color: white;
+}
+div.box1{
+	background-image: url("https://static.pexels.com/photos/28221/pexels-photo-28221.jpg");
+    height: 600px;
+    background-size: cover;
+}
+.box {
+	text-align: center;
+	background-color: #f05f40;
+	margin-bottom: 50px;
+	height: 350px;
+	padding: 20px; 
+}
+.box p{
+	padding: 15px;
+	font-size: 20px;
+}
+.box a,.type a{
+	background-color: #fff;
+	color: #000;
+	border-radius: 300px;
+}
+.btn1{
+	background-color: #FF4500;
+	border-radius: 20px;
+	padding: 20px;
+}
+.btn1 a{
+	text-decoration: none;
+	background-color: white;
+	color: black;
+}
+.btn2{
+	padding: 10px;
+}
+.type p{
+	padding: 10px;
+}
+.col-lg-3{
+	font-size: 16px;
+	width: 23%;
+	padding: 30px; 
+}
+.container{
+	text-align: center;
+	height: 350px;
+	padding: 30px;
+}
+.col-lg-3 i{
+	color: #f05f40;
+}
+.col-lg-3 p{
+	color: #777;
+	font-size: 16px;
+	font-weight: 500;
+}
+.type{
+	background-color: black;
+	color: #fff;
+	text-align: center;
+	padding: 50px 0; 
+}
+hr{
+	max-width: 50px;
+	border-color: rgba(240,95,64);
+	border-width: 3px;
+	color: #ee4b28;
+}
+.write{
+	text-align: center;margin: 40px 0;
+}
+.write div{
+	display: inline-block;
+	margin: 20px 40px 60px 40px;
+}
+.write div a{
+	color: #ee4b28;
+}
+.write div p{
+	font-size: 15px;
+}
+.write h1{
+	margin: 50px 0;
+}
+.type a{
+	background-color: #fff;
+	color: #000;
+	border-radius: 300px;
+}
+div.thumbnail{
+	margin-bottom: 0;
+        padding: 0; 
+}
+.col-md-4{
+	padding: 0; 
+}
+
+
