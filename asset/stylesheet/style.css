@@ -61,7 +61,7 @@ div.box1{
 .col-lg-3{
 	font-size: 16px;
 	width: 23%;
-	padding: 30px; 
+	padding: 30px 30px 10px 30px; 
 }
 .container{
 	text-align: center;
@@ -75,6 +75,7 @@ div.box1{
 	color: #777;
 	font-size: 16px;
 	font-weight: 500;
+	margin: 0px;
 }
 .type{
 	background-color: black;
@@ -111,10 +112,12 @@ hr{
 }
 div.thumbnail{
 	margin-bottom: 0;
-        padding: 0; 
+        padding: 0;
+        border:0;
+
 }
 .col-md-4{
-	padding: 0; 
+	padding:0; 
 }
-
+img{margin: 0px;}
 
